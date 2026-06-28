@@ -1,0 +1,64 @@
+{
+  "routes": [
+    {
+      "id": "FL001",
+      "origin": "LHR",
+      "destination": "OPO",
+      "airline": "TAP Air Portugal",
+      "departure": "08:00",
+      "arrival": "11:30",
+      "duration_hours": 2.5,
+      "price_eur": 89.99,
+      "seats_available": 12,
+      "class": "economy"
+    },
+    {
+      "id": "FL002",
+      "origin": "LHR",
+      "destination": "OPO",
+      "airline": "Ryanair",
+      "departure": "14:00",
+      "arrival": "17:20",
+      "duration_hours": 2.33,
+      "price_eur": 54.99,
+      "seats_available": 4,
+      "class": "economy"
+    },
+    {
+      "id": "FL003",
+      "origin": "LHR",
+      "destination": "OPO",
+      "airline": "British Airways",
+      "departure": "06:30",
+      "arrival": "10:00",
+      "duration_hours": 2.5,
+      "price_eur": 142.00,
+      "seats_available": 20,
+      "class": "economy"
+    },
+    {
+      "id": "FL004",
+      "origin": "STN",
+      "destination": "OPO",
+      "airline": "Ryanair",
+      "departure": "07:00",
+      "arrival": "10:15",
+      "duration_hours": 2.25,
+      "price_eur": 39.99,
+      "seats_available": 8,
+      "class": "economy"
+    },
+    {
+      "id": "FL005",
+      "origin": "MAN",
+      "destination": "OPO",
+      "airline": "TAP Air Portugal",
+      "departure": "10:00",
+      "arrival": "13:45",
+      "duration_hours": 2.75,
+      "price_eur": 99.00,
+      "seats_available": 15,
+      "class": "economy"
+    }
+  ]
+}

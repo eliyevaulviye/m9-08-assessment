@@ -1,0 +1,59 @@
+{
+  "hotels": [
+    {
+      "id": "HT001",
+      "name": "Hotel Infante Sagres",
+      "city": "Porto",
+      "stars": 5,
+      "price_per_night_eur": 185.00,
+      "rating": 9.2,
+      "breakfast_included": true,
+      "free_cancellation": true,
+      "amenities": ["wifi", "pool", "spa", "restaurant"]
+    },
+    {
+      "id": "HT002",
+      "name": "Ribeira Hostel Porto",
+      "city": "Porto",
+      "stars": 2,
+      "price_per_night_eur": 28.50,
+      "rating": 8.6,
+      "breakfast_included": false,
+      "free_cancellation": true,
+      "amenities": ["wifi", "shared_kitchen"]
+    },
+    {
+      "id": "HT003",
+      "name": "Moov Hotel Porto Centro",
+      "city": "Porto",
+      "stars": 3,
+      "price_per_night_eur": 72.00,
+      "rating": 8.1,
+      "breakfast_included": false,
+      "free_cancellation": false,
+      "amenities": ["wifi", "bar"]
+    },
+    {
+      "id": "HT004",
+      "name": "1872 River House",
+      "city": "Porto",
+      "stars": 4,
+      "price_per_night_eur": 110.00,
+      "rating": 9.0,
+      "breakfast_included": true,
+      "free_cancellation": true,
+      "amenities": ["wifi", "river_view", "restaurant", "bar"]
+    },
+    {
+      "id": "HT005",
+      "name": "Guest House Porto Downtown",
+      "city": "Porto",
+      "stars": 3,
+      "price_per_night_eur": 55.00,
+      "rating": 8.4,
+      "breakfast_included": true,
+      "free_cancellation": true,
+      "amenities": ["wifi", "terrace"]
+    }
+  ]
+}
